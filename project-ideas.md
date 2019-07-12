@@ -49,3 +49,10 @@
 [上海24小时图鉴](https://mp.weixin.qq.com/s?__biz=MzA4MzcxNjg5MQ==&mid=2651043417&idx=1&sn=f3fbe80e133881c966f892cab2a796cf&chksm=8405282db372a13b93205ee57f245101b4ea01bf827b1158237ede5d3d9a8e53f00ecc82a82b&scene=27#wechat_redirect)
 
 [qd 房价走势](https://www.anjuke.com/fangjia/qd/)
+
+18. 交通方面，飞机/火车的直飞直达（世界范围内）
+19. 绿化水平
+20. 啤酒厂/top 500 companies 
+21. 青岛港的国际贸易路线
+22. 学区房（重点小学/初中/高中）
+23. 房价热力图
