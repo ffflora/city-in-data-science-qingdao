@@ -39,3 +39,7 @@
    - 青岛各区市平均房价
 
      崂山最高，市南第二，makes sense.
+     
+   - 
+
+feature engineering  的时候发现需要把所有 useful information 重新编码，转换成 numeric value.
